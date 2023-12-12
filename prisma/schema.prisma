@@ -34,7 +34,7 @@ model databasechangeloglock {
   lockedby    String?   @db.VarChar(255)
 }
 
-model note {
+model Note {
   id      Int     @id @default(autoincrement())
   title   String? @db.VarChar(255)
   content String? @db.VarChar(255)
