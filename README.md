@@ -2,6 +2,8 @@
 
 This project is the backend node.js component of a notes application based on a tutorial by Chris Blakely, found [here](https://www.freecodecamp.org/news/full-stack-project-tutorial-create-a-notes-app-using-react-and-node-js/).
 
+I have also created a C# .Net Core Web API port that uses Entity Framework Core [here](https://github.com/jasondown/notes-api-api).
+
 The front-end for the completed tutorial can be found in my other repository [here](https://github.com/jasondown/notes-app-ui).
 
 ## Notes
